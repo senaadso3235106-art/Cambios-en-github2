@@ -24,3 +24,4 @@ def registrar_aprendiz():
 
 if __name__ == "__main__":
     registrar_aprendiz()
+    #hecho por  luismy#
