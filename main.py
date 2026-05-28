@@ -6,14 +6,14 @@ def registrar_aprendiz():
     nombre = input("Ingrese el nombre del aprendiz: ")
     
     # Captura de notas
-    nota1 = float(input("Ingrese la nota 1 (0.0 - 5.0): "))
+    nota1 = float(input("Ingrese la nota  1 (0.0 - 5.0): "))
     nota2 = float(input("Ingrese la nota 2 (0.0 - 5.0): "))
     nota3 = float(input("Ingrese la nota 3 (0.0 - 5.0): "))
     
     # Cálculo mediante el módulo importado
     promedio_final = calcular_promedio(nota1, nota2, nota3)
     
-    print("\n--- Resultado del Registro ---")
+    print("\n--- Resultado del Registro bandido---")
     print(f"Aprendiz: {nombre}")
     print(f"Promedio Final: {promedio_final:.2f}")
     
@@ -23,5 +23,6 @@ def registrar_aprendiz():
         print("Estado: No aprobado")
 
 if __name__ == "__main__":
-    registrar_aprendiz()
-    #hecho por  luismy#
+    registrar_aprendi()
+    #MANUEL MOLINA FIERRO#
+    # EL MAS BONITO DE TODOS LOS TIEMPOS# --- IGNORE ---                   
